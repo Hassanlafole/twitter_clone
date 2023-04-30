@@ -1,0 +1,6 @@
+/* Add borders on left and right of middle column, add nice padding*/
+.middle {
+    border-left: 1px solid #aaa;
+    border-right: 1px solid #aaa;
+    padding: 30px;
+  }
